@@ -1,0 +1,6 @@
+﻿D:\visualiry\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (chess test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GameLogic.cpp
+C:\Users\PC\source\repos\chess test\chess test\GameLogic.cpp(283,9): warning C4101: 's': unreferenced local variable
+  Main.cpp
+  Generating Code...
+  chess test.vcxproj -> C:\Users\PC\source\repos\chess test\Debug\OOP Chess.exe
